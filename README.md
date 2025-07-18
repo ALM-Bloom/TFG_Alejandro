@@ -54,3 +54,4 @@ El objetivo es mejorar la capacidad del modelo de lenguaje para interpretar entr
 - pandas, matplotlib
 
 > Consulta el notebook `ajuste_fino.ipynb` para más detalles sobre las dependencias y la configuración del entorno.
+> El modelo ya especializado se encuentra en su repositorio en [HuggingFace](https://huggingface.co/DrAleML/Oswestry-Instruct).
