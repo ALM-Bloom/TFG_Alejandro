@@ -36,7 +36,7 @@ Contiene resultados de precisión de dos variantes del modelo:
 - `precisión_entrevista.pdf`: Evaluación de entrevistas posterior al ajuste fino.
 - `precisión_item.pdf`: Resultados por ítem del modelo especializado.
 
-### 📄 Otros Archivos
+### Archivos varios
 - `estadisticas_precision.pdf`: Estadísticas comparativas generales de precisión entre modelos.
 - `conjunto_entrenamiento.json`: Conjunto de datos utilizados para el ajuste fino. Incluye entrevistas anotadas con referencia a los ítems de la escala Oswestry.
 
